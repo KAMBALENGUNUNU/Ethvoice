@@ -96,3 +96,15 @@ EthVoice is designed for **low-tech adoption**, ensuring accessibility even in a
 By leveraging **Ethereum's trustless nature**, we ensure **fair, secure, and transparent interactions** for all users.
 
 ---
+---
+
+## 🤝 Contributing
+We welcome contributions from developers, designers, and blockchain enthusiasts!  
+To contribute:
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m "Add feature"`).
+4. Push the branch (`git push origin feature-name`).
+5. Submit a Pull Request.
+
+---
