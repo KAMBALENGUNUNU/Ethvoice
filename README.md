@@ -108,3 +108,12 @@ To contribute:
 5. Submit a Pull Request.
 
 ---
+## 🏗 Future Plans
+Beyond the 6-month roadmap, EthVoice aims to:
+- Expand to **other African regions** facing similar challenges.
+- Introduce **cross-border transactions** to connect global buyers.
+- Partner with **impact-driven investors** to sustain long-term growth.
+
+EthVoice is **a community-powered movement**—your support helps drive real change. 🌍✨
+
+---
