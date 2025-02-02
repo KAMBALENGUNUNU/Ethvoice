@@ -25,3 +25,17 @@ A banana vendor in Goma loses nearly **50% of her earnings** to middlemen and un
 This highlights the urgent need for **trustworthy, accessible, and decentralized solutions.**
 
 ---
+
+## 🔥 The Vision: Why EthVoice?
+I grew up in the heart of the **DRC**, surrounded by resilient but struggling entrepreneurs. Witnessing their daily battles, I asked myself:
+
+_"How can we empower informal workers like her to thrive in today’s economy?"_
+
+This personal connection fuels my mission to **bridge the gap between technology and grassroots communities** using Ethereum.
+
+With **EthVoice**, I aim to:
+- **Rebuild trust** through transparent, decentralized systems.
+- **Create financial opportunities** that are secure and fair.
+- **Equip users with digital marketing skills** for business growth.
+
+---
