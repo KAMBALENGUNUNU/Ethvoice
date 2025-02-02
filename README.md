@@ -84,3 +84,15 @@ EthVoice is designed for **low-tech adoption**, ensuring accessibility even in a
 ✔ Plan for **scaling beyond the pilot phase**.  
 
 ---
+
+## 💡 How Ethereum Powers EthVoice
+| Ethereum Feature | How EthVoice Uses It |
+|-----------------|---------------------|
+| **Smart Contracts** | Secure tontine savings & microloan distribution. |
+| **Decentralized Storage** | Users store their work portfolios permanently. |
+| **Tokenized Rewards** | Incentivizes learning digital marketing. |
+| **On-Chain Governance** | Community-driven decision-making. |
+
+By leveraging **Ethereum's trustless nature**, we ensure **fair, secure, and transparent interactions** for all users.
+
+---
