@@ -39,3 +39,16 @@ With **EthVoice**, I aim to:
 - **Equip users with digital marketing skills** for business growth.
 
 ---
+## 🚀 Features & How It Works
+
+| Feature | Description |
+|---------|------------|
+| **🔗 Market Goods Securely** | Vendors can sell products directly, cutting out middlemen. |
+| **💰 Access Microloans & Savings Tools** | Secure, smart contract-based tontines remove fraud risks. |
+| **🎓 Earn Rewards for Digital Marketing Learning** | Users receive tokens/NFTs for completing training courses. |
+| **📜 On-Chain Work Portfolio** | Users document their achievements for credibility. |
+| **📢 Community Advocacy via Tokenized Voting** | Communities can push for policy changes democratically. |
+
+EthVoice is designed for **low-tech adoption**, ensuring accessibility even in areas with limited digital literacy.
+
+---
