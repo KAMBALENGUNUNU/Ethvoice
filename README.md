@@ -63,3 +63,13 @@ EthVoice is designed for **low-tech adoption**, ensuring accessibility even in a
 ✔ Build an **MVP** (Minimal Viable Product) for core features.  
 ✔ Design **user-friendly interfaces** tailored for low-tech users.  
 ✔ Implement the **digital marketing rewards system**. 
+
+### **Month 3: Pilot Testing and Iteration**
+✔ Launch the **MVP** with beta testers in **Eastern Congo**.  
+✔ Test financial tools with users and gather feedback.  
+✔ Iterate and refine the platform based on community input.  
+
+### **Month 4: Expand Functionalities**
+✔ Introduce **on-chain work portfolios**.  
+✔ Implement **tokenized voting** for governance.  
+✔ Deploy the **learning rewards system**. 
