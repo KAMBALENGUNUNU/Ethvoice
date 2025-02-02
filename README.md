@@ -52,3 +52,14 @@ With **EthVoice**, I aim to:
 EthVoice is designed for **low-tech adoption**, ensuring accessibility even in areas with limited digital literacy.
 
 ---
+## 📅 Roadmap (6-Month Plan)
+
+### **Month 1: Research and Community Engagement**
+✔ Conduct user research with grassroots communities.  
+✔ Partner with local organizations to align EthVoice with real needs.  
+✔ Identify the best Ethereum tools for smart contracts and tokenization.  
+
+### **Month 2: Prototype Development**
+✔ Build an **MVP** (Minimal Viable Product) for core features.  
+✔ Design **user-friendly interfaces** tailored for low-tech users.  
+✔ Implement the **digital marketing rewards system**. 
