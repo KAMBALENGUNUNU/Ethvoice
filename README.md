@@ -73,3 +73,14 @@ EthVoice is designed for **low-tech adoption**, ensuring accessibility even in a
 ✔ Introduce **on-chain work portfolios**.  
 ✔ Implement **tokenized voting** for governance.  
 ✔ Deploy the **learning rewards system**. 
+
+### **Month 5: Scaling and Feedback Integration**
+✔ Onboard more users via **community events and workshops**.  
+✔ Improve platform usability based on real-user feedback.  
+
+### **Month 6: Launch and Impact Measurement**
+✔ Full EthVoice launch.  
+✔ Measure **economic impact** (income, financial access, engagement).  
+✔ Plan for **scaling beyond the pilot phase**.  
+
+---
