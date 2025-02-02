@@ -123,3 +123,7 @@ For any inquiries or collaboration opportunities, reach out to:
 💬 Twitter: [https://x.com/KAMBALE_NGUNUNU](https://x.com/KAMBALE_NGUNUNU)  
  
 ---
+## 📝 License
+This project is open-source under the **MIT License**. Feel free to use, modify, and contribute!
+
+---
