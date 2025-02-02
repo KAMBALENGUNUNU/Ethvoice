@@ -120,6 +120,6 @@ EthVoice is **a community-powered movement**—your support helps drive real cha
 ## 📞 Contact
 For any inquiries or collaboration opportunities, reach out to:  
 📩 Email: **danielngun04@gmail.com**  
-💬 Twitter: [https://x.com/KAMBALE_NGUNUNU](daniel)  
+💬 Twitter: [https://x.com/KAMBALE_NGUNUNU](https://x.com/KAMBALE_NGUNUNU)  
  
 ---
