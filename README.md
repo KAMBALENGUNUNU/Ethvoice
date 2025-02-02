@@ -117,3 +117,9 @@ Beyond the 6-month roadmap, EthVoice aims to:
 EthVoice is **a community-powered movement**—your support helps drive real change. 🌍✨
 
 ---
+## 📞 Contact
+For any inquiries or collaboration opportunities, reach out to:  
+📩 Email: **danielngun04@gmail.com**  
+💬 Twitter: [https://x.com/KAMBALE_NGUNUNU](daniel)  
+ 
+---
