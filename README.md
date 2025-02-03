@@ -45,7 +45,7 @@ With **EthVoice**, I aim to:
 |---------|------------|
 | **🔗 Market Goods Securely** | Vendors can sell products directly, cutting out middlemen. |
 | **💰 Access Microloans & Savings Tools** | Secure, smart contract-based tontines remove fraud risks. |
-| **🎓 Earn Rewards for Digital Marketing Learning** | Users receive tokens/NFTs for completing training courses. |
+| **🎓 Earn Rewards for Digital Marketing Learning** | Users receive NFTs for completing training courses. |
 | **📜 On-Chain Work Portfolio** | Users document their achievements for credibility. |
 | **📢 Community Advocacy via Tokenized Voting** | Communities can push for policy changes democratically. |
 
